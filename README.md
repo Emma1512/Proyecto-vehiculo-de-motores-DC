@@ -195,7 +195,3 @@ Si la medición es inválida, la distancia se muestra como `INVALIDA` y el estad
 - Institución: Universidad Nacional de Avellaneda
 - Año: 2026
 - Entrega: Trabajo de Laboratorio N°1
-
-## 📄 Licencia
-
-[Elegir una licencia, por ejemplo MIT, y reemplazar el badge de arriba, o eliminar esta sección]
